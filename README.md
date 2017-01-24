@@ -11,7 +11,9 @@
 
 ### Instructors
 Lead Instructor: [Vrushank Vora](vrushank.vora@generalassemb.ly)
+
 Lead Instructor: [Alex Barriga](alexander.barriga@generalassemb.ly)
+
 Instructional Associate: [Varsha Pullabhotla](varsha.p@generalassemb.ly)
 
 Evening TAs: TBD
