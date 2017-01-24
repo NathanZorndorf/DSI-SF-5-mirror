@@ -17,7 +17,6 @@ Lead Instructor: [Alex Barriga](alexander.barriga@generalassemb.ly)
 Instructional Associate: [Varsha Pullabhotla](varsha.p@generalassemb.ly)
 
 Evening TAs: TBD
-Grader: TBD 
 
 ### Pre-work Materials 
 [Dataquest](https://www.dataquest.io/): Complement classroom instruction 
