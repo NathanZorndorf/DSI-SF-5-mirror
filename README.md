@@ -23,6 +23,9 @@ Evening TAs: TBD
 
 [MetaAcademy](https://metacademy.org): Used to figure out which pre-requisites you may not know 
 
+### [Weekly Trello Schedule](https://trello.com/b/lvxBcSTE/general-assembly-dsi-5)
+
+
 ### Assignments 
 * In-class Labs 
 * Weekly Projects
