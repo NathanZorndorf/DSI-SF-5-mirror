@@ -26,7 +26,8 @@ Evening TAs: TBD
 
 ### Assignments 
 * In-class Labs 
-* Weekly Projects [Please submit here](https://docs.google.com/a/generalassemb.ly/forms/d/e/1FAIpQLSd9zTyZ8yX0_AOPnw7Pj_iFYDqjsqRqVQj1-_wizGEuIiqVuQ/viewform) 
+* Weekly Projects 
+  * [Please submit here](https://docs.google.com/a/generalassemb.ly/forms/d/e/1FAIpQLSd9zTyZ8yX0_AOPnw7Pj_iFYDqjsqRqVQj1-_wizGEuIiqVuQ/viewform) 
 * Capstone Project 
   * [Capstone Guidelines](https://github.com/sinanuozdemir/sfdat26/blob/master/project-examples.md)
   * [Capstone Examples](https://github.com/sinanuozdemir/sfdat26/blob/master/project-examples.md)
