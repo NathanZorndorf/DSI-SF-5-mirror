@@ -18,9 +18,9 @@ Instructional Associate: [Varsha Pullabhotla](varsha.p@generalassemb.ly)
 
 Evening TAs: TBD
 
-### [Pre-work Materials][https://github.com/ga-students/DSI-SF-5/wiki/Weekly-Prework-Resources]
-* [Dataquest](https://www.dataquest.io/): Complement classroom instruction 
-* [MetaAcademy](https://metacademy.org): Used to figure out which pre-requisites you may not know 
+### [Pre-work Materials](https://github.com/ga-students/DSI-SF-5/wiki/Weekly-Prework-Resources)
+* [Dataquest](https://www.dataquest.io/)
+* [MetaAcademy](https://metacademy.org)
 
 ### [Weekly Trello Schedule](https://trello.com/b/lvxBcSTE/general-assembly-dsi-5)
 
