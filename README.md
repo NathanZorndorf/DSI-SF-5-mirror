@@ -1,7 +1,7 @@
 # Data Science Immersive: Jan 30, 2017 - April 21, 2017   ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 
-### Classroom Culture
+### Classroom Culture  (Alexander's Change !!!!!!)
 * Ambitious Learning Goals
 * Growth Mindset 
 * Intellectual Curiosity
