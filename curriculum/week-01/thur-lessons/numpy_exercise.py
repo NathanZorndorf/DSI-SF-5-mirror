@@ -15,7 +15,8 @@ def one():
     >>> print answer
     >>> [[ 0  1  2  3  4 ... 99 ]]
     '''
-    pass
+    return numpy.array(range(99))
+
 
 
 def two():
@@ -33,7 +34,7 @@ def two():
          ...
           [ 50.        ]]
     '''
-    pass
+    
 
 
 def three():
